@@ -20,9 +20,9 @@ BLOG = {
     # This must be the email address of a registered administrator for the 
     # application due to mail api restrictions.
     "email": "chris@appscale.com",
-    "description": "Making Cloud Software Easy to Use",
+    "description": "Open Source Google App Engine",
     "root_url": "http://blog.appscale.com",
-    "master_atom_url": "/feeds/atom.xml",
+    "master_atom_url": "http://feeds.feedburner.com/TheAppscaleBlog",
     # By default, visitors can comment on article for this many days.
     # This can be overridden by setting article.allow_comments
     "days_can_comment": 60,
